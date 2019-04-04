@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linked List(연결리스트)"
+title:  "LinkedList"
 author: "J pumpkin"
 ---
 
