@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GitPage 시작"
+title:  "Linked List(연결리스트)"
 author: "J pumpkin"
 ---
 
